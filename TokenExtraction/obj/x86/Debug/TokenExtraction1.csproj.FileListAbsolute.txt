@@ -1,0 +1,51 @@
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Form1.resources
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Properties.Resources.resources
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.exe
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.pdb
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.exe
+c:\users\mohammadreza\documents\visual studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.pdb
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.exe
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.pdb
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.exe
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.pdb
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Form1.resources
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Studio 2010\Projects\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.ShowData.resources
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.exe
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.pdb
+D:\NLP Student\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.exe
+D:\NLP Student\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.pdb
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Form1.resources
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Properties.Resources.resources
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.ShowData.resources
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.exe
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.pdb
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.exe
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.pdb
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Form1.resources
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Properties.Resources.resources
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.ShowData.resources
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.exe
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.pdb
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.exe
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\bin\Debug\TokenExtraction1.pdb
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Form1.resources
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Properties.Resources.resources
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.ShowData.resources
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.Form_Phase4.resources
+F:\morteza nlp\NLP-new\NLP Student\TokenExtraction1\TokenExtraction1\obj\x86\Debug\TokenExtraction1.AutoChange.resources
